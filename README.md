@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
   <img src="https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Sails.js-%2300B5E2.svg?style=for-the-badge&logo=sails.js&logoColor=white" alt="Sails.js">
+  <img src="https://img.shields.io/badge/OpenSea-%232081E8.svg?style=for-the-badge&logo=opensea&logoColor=white" alt="OpenSea">
 </p>
 
 ## 🚀 About Me
@@ -23,8 +24,8 @@ I'm a passionate developer with experience in web development, specializing in b
 
 ## 📫 Get in Touch
 
-- **Instagram**: [[Instagram Profile](https://www.instagram.com/juanlemat/)]
-- **GitHub**: [[GitHub Profile](https://github.com/JuanLema14)]
+- **Instagram**: [Instagram Profile](https://www.instagram.com/juanlemat/)
+- **GitHub**: [GitHub Profile](https://github.com/JuanLema14)
 
 ## 💻 Projects
 
@@ -36,7 +37,7 @@ A brief description of what Project 2 is about.
 
 ## 🎨 My Design Work
 
-![OpenSea](https://opensea.io/collection/dog-daily-life)
+[![OpenSea](https://img.shields.io/badge/OpenSea-%232081E8.svg?style=for-the-badge&logo=opensea&logoColor=white)](https://opensea.io/collection/dog-daily-life)
 
 ## 📈 GitHub Stats
 
