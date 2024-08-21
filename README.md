@@ -1,4 +1,4 @@
-# 🌟 [Tu Nombre] - Full Stack Developer 🌟
+# 🌟 Juan Andrés Lema - Full Stack Developer 🌟
 
 <div align="center">
   <img src="https://via.placeholder.com/728x90" alt="Banner con los logos de las tecnologías que utilizas">
