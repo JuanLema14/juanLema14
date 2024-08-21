@@ -1,8 +1,4 @@
-# 🌟 Juan Andrés Lema - Full Stack Developer 🌟
-
-<div align="center">
-  <img src="https://via.placeholder.com/728x90" alt="Banner con los logos de las tecnologías que utilizas">
-</div>
+# ☠ Juan Andrés Lema - Full Stack Developer ☠
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -27,10 +23,8 @@ I'm a passionate developer with experience in web development, specializing in b
 
 ## 📫 Get in Touch
 
-- **Website**: [Your Website](https://yourwebsite.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
-- **Twitter**: [@YourTwitterHandle](https://twitter.com/yourtwitterhandle)
-- **GitHub**: [Your GitHub Profile](https://github.com/yourgithubprofile)
+- **Instagram**: [[Your Instagram Profile](https://www.instagram.com/juanlemat/)]
+- **GitHub**: [[Your GitHub Profile](https://github.com/JuanLema14)]
 
 ## 💻 Projects
 
