@@ -23,31 +23,27 @@ I'm a passionate developer with experience in web development, specializing in b
 
 ## 📫 Get in Touch
 
-- **Instagram**: [[Your Instagram Profile](https://www.instagram.com/juanlemat/)]
-- **GitHub**: [[Your GitHub Profile](https://github.com/JuanLema14)]
+- **Instagram**: [[Instagram Profile](https://www.instagram.com/juanlemat/)]
+- **GitHub**: [[GitHub Profile](https://github.com/JuanLema14)]
 
 ## 💻 Projects
 
-### [Project 1](https://github.com/yourgithubprofile/project1)
+### [My CV](https://github.com/JuanLema14/cv-Juan-Lema)
 A brief description of what Project 1 is about.
 
-### [Project 2](https://github.com/yourgithubprofile/project2)
+### [Alcancia Virtual](https://github.com/JuanLema14/alcanciavirtual_front)
 A brief description of what Project 2 is about.
-
-### [Project 3](https://github.com/yourgithubprofile/project3)
-A brief description of what Project 3 is about.
 
 ## 🎨 My Design Work
 
-![Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![OpenSea](https://opensea.io/collection/dog-daily-life)
 
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubprofile&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=JuanLema14&show_icons=true&theme=radical" alt="GitHub Stats">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubprofile&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanLema14&layout=compact&theme=radical" alt="Top Languages">
 </div>
