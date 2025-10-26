@@ -14,14 +14,16 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      actions: read
     
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          token: ${{ secrets.TOKEN_GIT }}
 
-      - name: Generate GitHub Stats SVG
+      - name: Generate GitHub Stats
         uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
@@ -40,15 +42,4 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_UPDATED_DATE: "True"
           SHOW_TOTAL_CODE_TIME: "False"
-
-      - name: Update README with stats
-        run: |
-          # Este step se ejecuta automáticamente con waka-readme-stats
-          echo "Stats updated successfully!"
-
-      - name: Commit and push if changed
-        run: |
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git config --global user.name "github-actions[bot]"
-          git add .
-          git diff --quiet && git diff --staged --quiet || (git commit -m "📊 Update GitHub stats" && git push)
+          COMMIT_MESSAGE: "📊 Updated GitHub stats"
