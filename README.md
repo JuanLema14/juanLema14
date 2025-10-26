@@ -105,9 +105,6 @@ I'm a developer who thrives on building seamless user experiences and robust bac
 
 ## 📊 GitHub Statistics
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 <div align="center">
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JuanLema14&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JuanLema14&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&count_private=true" alt="Top Languages"/>
@@ -120,6 +117,11 @@ I'm a developer who thrives on building seamless user experiences and robust bac
 ### 📈 Contribution Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JuanLema14&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+</div>
+
+### 📊 Detailed Metrics
+<div align="center">
+  <img src="./metrics.svg" alt="GitHub Metrics" width="100%"/>
 </div>
 
 ---
