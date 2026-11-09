@@ -52,6 +52,8 @@ I'm a developer who thrives on building seamless user experiences and robust bac
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </p>
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="91bbf389-d442-4dec-b9da-ec5b0497858f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 ---
 
 ## 🚀 Featured Projects
